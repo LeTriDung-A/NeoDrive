@@ -1,33 +1,42 @@
 # 🌌 NeoDrive
 
-### Your Personal Cloud, Your Universe.
+### Your AI Assistant, Your Universe.
 
-A personal cloud storage project powered by [OpenCloud](https://github.com/opencloud-eu/opencloud), with a dark blue-purple aesthetic.
+NeoDrive is a personal AI assistant project based on [OpenClaw](https://github.com/openclaw/openclaw), designed with a dark navy, violet, and electric-blue visual identity.
 
----
+## ✨ Project Goals
 
-## ✨ Features
+- 🤖 **AI Assistant** — Build a personal assistant powered by OpenClaw.
+- 🌐 **Remote Access** — Access the service securely through the internet.
+- 🎨 **Nebula Theme** — Create a distinctive dark space-inspired interface.
+- 🔐 **Security First** — Protect credentials, personal data, and remote access.
+- 💸 **Free-First Deployment** — Explore free hosting options while accepting their resource limits.
 
-- ☁️ **Cloud Storage** — Store and manage files online.
-- 🔐 **Private Access** — Keep your files under your control.
-- 🔗 **File Sharing** — Share files when needed.
-- 🎨 **Nebula Theme** — A dark interface inspired by space and nebulae.
-- 📱 **Anywhere Access** — Access your cloud from a browser.
+## 🛠️ Technology
 
-## 🛠️ Built With
-
-- [OpenCloud](https://github.com/opencloud-eu/opencloud)
-- Docker
-- Linux Server
+- [OpenClaw](https://github.com/openclaw/openclaw)
+- Linux server or compatible hosting environment
+- Docker, if supported by the chosen hosting platform
+- An AI model provider and its credentials, where required
 
 ## 🚧 Project Status
 
-**In Development** — The project is being planned and customized.
+**In Development** — Repository setup, hosting evaluation, and customization are in progress.
 
-## 🎯 Goal
+## 🗺️ Roadmap
 
-Build a practical, self-hosted cloud storage service with a personalized Nebula-inspired interface.
+1. Document the project and deployment requirements.
+2. Choose a suitable hosting option.
+3. Configure OpenClaw securely.
+4. Deploy and test remote access.
+5. Customize the interface with the NeoDrive nebula theme.
+
+## ⚠️ Security
+
+- Never commit API keys, passwords, or access tokens.
+- Do not expose the OpenClaw Gateway publicly without appropriate authentication and security controls.
+- Free hosting may have resource limits, sleep periods, or restrictions.
 
 ---
 
-*Made with ☁️ and 💜*
+*Made with ☁️, 🤖, and 💜*
